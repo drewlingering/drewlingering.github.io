@@ -1,1 +1,47 @@
+---
+layout: default
+title: "Home"
+---
+
+<header class="hero">
+    <div class="hero-content">
+        <h1>Welcome to My Awesome Blog</h1>
+        <p>Your daily dose of insights, stories, and updates.</p>
+        <a href="#posts" class="btn">Start Exploring</a>
+    </div>
+</header>
+
+<section id="posts" class="post-list">
+    <h2>Latest Blog Posts</h2>
+    <ul>
+        {% for post in site.posts %}
+        <li>
+            <article>
+                <h3><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
+                <p>{{ post.excerpt | strip_html | truncate: 160 }}</p>
+                <small>Posted on {{ post.date | date: "%B %d, %Y" }}</small>
+            </article>
+        </li>
+        {% endfor %}
+    </ul>
+</section>
+
+<section id="about" class="about-section">
+    <h2>About Me</h2>
+    <p>
+        Hi, I'm {{ site.author }}! Welcome to my little corner of the web. Here, I share my thoughts, inspirations, and discoveries with the world.
+        Join me as I explore a wide range of topics and ideas!
+    </p>
+    <a href="/about" class="btn">Learn More</a>
+</section>
+
+<footer>
+    <p>Follow me on:</p>
+    <ul class="social-links">
+        <li><a href="https://facebook.com">Facebook</a></li>
+        <li><a href="https://linkedin.com">LinkedIn</a></li>
+        <li><a href="https://twitter.com">Twitter</a></li>
+        <li><a href="https://bluesky.com">Bluesky</a></li>
+    </ul>
+</footer>
 
