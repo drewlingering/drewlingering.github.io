@@ -1,9 +1,9 @@
-title: "My Awesome Blog"
-author: "Drew"
+title: "Blog"
+author: "drewlingering"
 email: "your-email@example.com"
 description: "A blog about everything and anything."
 baseurl: "" # Leave empty for GitHub Pages
-url: "https://yourusername.github.io"
+url: "https://drewlingering.github.io"
 theme: minima
 plugins:
   - jekyll-feed
