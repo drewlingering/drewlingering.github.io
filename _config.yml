@@ -8,4 +8,4 @@ theme: minima
 plugins:
   - jekyll-feed
 disqus:
-  shortname: your-disqus-shortname
+  shortname: drewlingering.disqus.com
