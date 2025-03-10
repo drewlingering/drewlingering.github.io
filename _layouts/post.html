@@ -6,6 +6,10 @@ layout: default
     <p><small>Posted on {{ page.date | date: "%B %d, %Y" }}</small></p>
     <div>{{ content }}</div>
 </article>
+<a href="{{ page.url }}#disqus_thread" data-disqus-identifier="{{ page.id }}">
+    <span class="disqus-comment-count" data-disqus-identifier="{{ page.id }}"></span> Comments
+</a>
+
 ---
 layout: default
 ---
