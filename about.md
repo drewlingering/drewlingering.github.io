@@ -5,7 +5,7 @@ title: "About "
 
 # About 
 
-Hello! I'm Drew, a multifaceted professional with a passion for various fields:
+Hello! Here's Drewlingering, a site by a multifaceted professional with a passion for various fields:
 
 - **Engineer** 📐: Crafting innovative solutions and designing systems that make a difference.
 - **Property** 🏰: Managing and developing properties to create comfortable and efficient spaces.
@@ -16,9 +16,9 @@ Hello! I'm Drew, a multifaceted professional with a passion for various fields:
 
 **#mhddynamo** **#twsc4h2** **#alkalinefuelcell** **#combinedcycles** **#cascade** 
 
-Join me on a journey as I share insights, stories, and experiences from these diverse fields. Thank you for visiting my blog!
+Join on a journey as are shared insights, stories, and experiences from these diverse fields. Thank you for visiting the blog!
 
-Feel free to reach out if you'd like to connect or learn more about my work.
+Feel free to reach out if you'd like to connect or learn more about how it all works.
 
 Best,
 Drewlingering
