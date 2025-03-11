@@ -12,7 +12,7 @@ timestamp = now.strftime("%Y-%m-%d %H:%M:%S")
 
 # Social media embed links
 facebook_embed = "<iframe src='https://www.facebook.com/plugins/post.php?href=YOUR_FACEBOOK_POST_URL'></iframe>"
-linkedin_embed = "<iframe src='https://www.linkedin.com/embed/feed/update/urn:li:YOUR_LINKEDIN_POST'></iframe>"
+linkedin_embed = "<iframe src='https://www.linkedin.com/in/craig-low-76779359/:li:YOUR_LINKEDIN_POST'></iframe>"
 twitter_embed = "<blockquote class='twitter-tweet'><a href='https://twitter.com/YOUR_TWEET'></a></blockquote>"
 bluesky_embed = "<iframe src='https://blueskyweb.com/YOUR_POST'></iframe>"
 
