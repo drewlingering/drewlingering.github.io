@@ -1,0 +1,6 @@
+---
+layout: post
+title: "Daily Update"
+date: {{ site.time | date: "%Y-%m-%d %H:%M:%S" }}
+---
+This is daily blog entry content.
