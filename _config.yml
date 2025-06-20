@@ -9,3 +9,5 @@ plugins:
   - jekyll-feed
 disqus:
   shortname: drewlingering.disqus.com
+bundle exec jekyll serve
+jekyll new my-site
