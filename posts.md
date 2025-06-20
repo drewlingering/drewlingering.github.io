@@ -62,3 +62,29 @@ date: 2025-07-01
 | Flight Control     | Confirm real-time adaptive control functionality | Control latency, stability margin   |
 
 ---
+
+---
+layout: default
+title: "ABEP Thruster Power-to-Mass Breakdown"
+date: 2025-07-01
+---
+
+## ⚖️ 800 kW ABEP System: Power-to-Mass Estimate
+
+**Assumptions:**
+- ABEP thrusters require ~100 kW each → 8 units = 800 kW
+- Power system specific power = 0.8 kW/kg
+- Estimated mass for power system, thrusters, and support infrastructure included
+
+| Component           | Assumed Units        | Estimated Mass (kg) | Notes                                                  |
+|--------------------|----------------------|---------------------|--------------------------------------------------------|
+| Power Generation    | 1 (800 kW)           | 1,000               | 800 kW ÷ 0.8 kW/kg                                      |
+| ABEP Thrusters      | 8 × 100 kW           | 480                 | ~60 kg per unit with EM channels + control hardware     |
+| Support Systems     | N/A                  | 400                 | Includes cooling, fuel piping, avionics, mounting frame |
+| **Total System Mass** | —                  | **1,880**           |                                                        |
+| **Effective Power-to-Mass Ratio** | —        | **~0.425 kW/kg**    | Realistic system-level output, accounting for overhead  |
+
+---
+
+> This is an upper-baseline estimate for airborne ABEP system mass at ~800 kW output using a 3-tier hybrid MHD power system. With optimization, this could trend below 1,600 kg. Future iterations could reduce thruster weight (via lightweight inductors or AM ceramics), streamline cooling, or trade off redundancy for mass savings.
+
