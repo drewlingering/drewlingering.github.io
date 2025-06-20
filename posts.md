@@ -3,7 +3,7 @@ layout: default
 title: "ABEP Thruster Requirements and Cost Analysis"
 date: 2025-07-01
 ---
-
+---
 ## ✈️ Specific Power Comparison of Aviation Power Systems
 
 | System                             | Specific Power (kW/kg) | Notes                                                        |
@@ -14,7 +14,7 @@ date: 2025-07-01
 | 3-tier MHD–LMMHD–Fuel Cell Stack  | Potentially 0.6–1.0+   | Depends on NaK containment, compaction, and thermal integration |
 
 ---
-
+---
 ## 💰 Cost per Kilogram Comparison of Aviation Power Systems
 
 | System             | Total Cost (USD) | Weight (kg) | Cost per kg (USD/kg) |
@@ -24,7 +24,7 @@ date: 2025-07-01
 | Heavy-Duty System  | $2,500,000       | 1,667       | 1,500                 |
 
 ---
-
+---
 ## ⚙️ ABEP Thruster Requirements per Power System
 
 **Assumptions:**
@@ -40,7 +40,7 @@ date: 2025-07-01
 | Traditional CCGT (land-based)     | ~0.08                  | 80                   | ⚠️ 80 (non-airworthy bulk unit) |
 
 ---
-
+---
 ## 💸 Estimated ABEP Thruster Cost Breakdown
 
 | Power System                       | Thrusters Needed | Est. Cost per Thruster (USD) | Total Thruster Cost (USD) |
@@ -51,7 +51,7 @@ date: 2025-07-01
 | Traditional CCGT (land-based)     | 80               | $20,000                       | $1,600,000                 |
 
 ---
-
+---
 ## 🛠️ Key Metrics & Test Bench Summary
 
 | Subsystem          | Test Objective                              | Key Metric                          |
@@ -68,7 +68,7 @@ layout: default
 title: "ABEP Thruster Power-to-Mass Breakdown"
 date: 2025-07-01
 ---
-
+---
 ## ⚖️ 800 kW ABEP System: Power-to-Mass Estimate
 
 **Assumptions:**
