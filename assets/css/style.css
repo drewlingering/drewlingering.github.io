@@ -142,3 +142,21 @@ footer .social-links li {
 .dropdown:hover .dropbtn {
     background-color: #3e8e41;
 }
+.centered-content {
+  text-align: center;
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.centered-content table {
+  margin: 1.5em auto;
+  border-collapse: collapse;
+  text-align: center;
+}
+
+.centered-content th,
+.centered-content td {
+  padding: 8px;
+  border-bottom: 1px solid #ccc;
+}
+
