@@ -62,5 +62,3 @@ date: 2025-07-01
 | Flight Control     | Confirm real-time adaptive control functionality | Control latency, stability margin   |
 
 ---
-
-Let me know if you want this chunked into includes, styled with `.table-wrap`, or linked to your propulsion architecture post. I can also generate YAML front matter for Liquid-driven table iteration if you're heading that way. Ready when you are.
