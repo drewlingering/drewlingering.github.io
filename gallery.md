@@ -24,7 +24,7 @@ title: "Image Gallery"
     </div>
   </div>
     <div class="gallery-item">
-        <img src="/assets/images/Screenshot_30-6-2025_123340_store.dftba.com.jpg" alt="Image 4">
+        <img src="/assets/images/Screenshot_30-6-2025_123340_store.dftba.com.jpeg" alt="Image 4">
         <p>[Source: @domainofscience youtube.com]</p>
     </div>
     <!-- Add more images as needed -->
