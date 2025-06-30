@@ -22,8 +22,8 @@ title: "Image Gallery"
         <img src="/assets/images/bafkreicrnevb4aazvtkt5gk4cozvftypeyok7muwswcyis3kkee3emrjda2.jpg" alt="Image 4">
         <p>Image 4 mhd fuel cell hybrid vehicle idea sketch; i.e. wind propulsion</p>
     </div>
-  </div>
-    <div class="gallery-item">
+    <div>
+        class="gallery-item">
         <img src="/assets/images/Screenshot_30-6-2025_123340_store.dftba.com.jpeg" alt="Image 4">
         <p>[Source: @domainofscience youtube.com]</p>
     </div>
