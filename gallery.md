@@ -23,8 +23,8 @@ title: "Image Gallery"
         <p>Image 4 mhd fuel cell hybrid vehicle idea sketch; i.e. wind propulsion</p>
     </div>
     <div class="gallery-item">
-        <img src="/assets/images/Screenshot_30-6-2025_123340_store.dftba.com.jpeg" alt="Image 4">
-        <p>[Source: @domainofscience youtube.com]</p>
+        <img src="/assets/images/Screenshot_30-6-2025_123340_store.dftba.com.jpeg" alt="Image 5">
+        <p>Source: @domainofscience youtube.com</p>
     </div>
     <!-- Add more images as needed -->
 </div>
