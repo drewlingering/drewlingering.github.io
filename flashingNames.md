@@ -16,3 +16,5 @@ function flash() {
 
 setInterval(flash, 500); // change colours every 0.5 seconds
 </script>
+
+<meta http-equiv="refresh" content="2">
