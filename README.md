@@ -116,4 +116,30 @@ The block also reserves code points for punctuation, numbers, and layout marks i
 
 ---
 
- 
+ ## Aramaic–Arabic letter lineage
+
+| # | Proto‑Canaanite name | Original meaning | Aramaic letter | Arabic base letter | Approx. sound (Classical) | Main Greek / Latin descendants |
+|---|----------------------|------------------|----------------|--------------------|----------------------------|--------------------------------|
+| 1 | Aleph                | Ox head          | 𐡀             | ا (alif)           | /ʔ/, long /aː/             | Α (alpha), A                  |
+| 2 | Beth                 | House            | 𐡁             | ب (bāʾ)            | /b/                        | Β (beta), B                   |
+| 3 | Gimel                | Camel            | 𐡂             | ج (jīm)            | /d͡ʒ/ (orig. /g/)          | Γ (gamma), C, G               |
+| 4 | Daleth               | Door             | 𐡃             | د (dāl)            | /d/                        | Δ (delta), D                  |
+| 5 | He                   | Window / fence   | 𐡄             | ه (hāʾ)            | /h/                        | Ε (epsilon), later H via Latin|
+| 6 | Waw                  | Hook / peg       | 𐡅             | و (wāw)            | /w/, long /uː, oː/         | Υ/Ϝ (upsilon, digamma), F, U, V, W, Y |
+| 7 | Zayin                | Weapon           | 𐡆             | ز (zāy)            | /z/                        | Ζ (zeta), Z                   |
+| 8 | Heth                 | Fence            | 𐡇             | ح (ḥāʾ)            | /ħ/ (pharyngeal)           | Χ (chi) very indirectly       |
+| 9 | Teth                 | Wheel / serpent  | 𐡈             | ط (ṭāʾ)            | /tˤ/ (emphatic t)          | —                              |
+|10 | Yodh                 | Hand / arm       | 𐡉             | ي (yāʾ)            | /j/, long /iː/             | Ι (iota), I, J, Y             |
+|11 | Kaph                 | Palm of hand     | 𐡊             | ك (kāf)            | /k/                        | Κ (kappa), K, C (hard)        |
+|12 | Lamed                | Goad / staff     | 𐡋             | ل (lām)            | /l/                        | Λ (lambda), L                 |
+|13 | Mem                  | Water            | 𐡌             | م (mīm)            | /m/                        | Μ (mu), M                     |
+|14 | Nun                  | Snake / fish     | 𐡍             | ن (nūn)            | /n/                        | Ν (nu), N                     |
+|15 | Samekh               | Fish / support   | 𐡎             | س (sīn)            | /s/                        | Ξ or Σ (via mergers), X, S    |
+|16 | Ayin                 | Eye / spring     | 𐡏             | ع (ʿayn)           | /ʕ/ (pharyngeal)           | Ο (omicron), later O          |
+|17 | Pe                   | Mouth            | 𐡐             | ف (fāʾ)            | /f/ (orig. /p/)            | Π (pi), P, F (via /p/→/f/)    |
+|18 | Tsade                | Papyrus plant    | 𐡑             | ص (ṣād)            | /sˤ/ (emphatic s)          | Ψ/Ξ (indirect)                |
+|19 | Qoph                 | Back of head     | 𐡒             | ق (qāf)            | /q/ (uvular stop)          | Q (Latin), Κ/Ϙ (koppa)        |
+|20 | Resh                 | Head             | 𐡓             | ر (rāʾ)            | /r/                        | Ρ (rho), R                    |
+|21 | Shin                 | Tooth            | 𐡔             | ش (shīn)           | /ʃ/                        | Σ (sigma), S                  |
+|22 | Taw                  | Mark / cross     | 𐡕             | ت (tāʾ)            | /t/                        | Τ (tau), T                    |
+
