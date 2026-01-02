@@ -1,8 +1,8 @@
-luca:
+- key: luca
   name: "LUCA (Last Universal Common Ancestor)"
   note: "Root of the tree; single-celled ancestor of all life."
 
-archaea:
+- key: archaea
   name: "Archaea"
   examples:
     - "Thermococcus gammatolerans (thermophile)"
@@ -15,7 +15,7 @@ archaea:
     - "Nanoarchaeum equitans (symbiotic archaeon)"
     - "Thermoplasma acidophilum (acidophilic archaeon)"
 
-bacteria:
+- key: bacteria
   name: "Bacteria"
   examples:
     - "Escherichia coli"
@@ -29,7 +29,7 @@ bacteria:
     - "Clostridium botulinum"
     - "Helicobacter pylori"
 
-eukaryotes:
+- key: eukaryotes
   name: "Eukaryotes"
   note: "Derived from archaeal/bacterial interactions (Asgard-related ancestry)."
   examples:
@@ -43,7 +43,7 @@ eukaryotes:
     - "Red algae (e.g., Porphyra)"
     - "Naegleria gruberi (excavate)"
 
-plants:
+- key: plants
   name: "Plants (Viridiplantae and relatives)"
   examples:
     - "Physcomitrella patens (moss)"
@@ -57,7 +57,7 @@ plants:
     - "Oryza sativa (rice)"
     - "Zea mays (maize)"
 
-fungi:
+- key: fungi
   name: "Fungi"
   examples:
     - "Saccharomyces cerevisiae (baker's yeast)"
@@ -70,7 +70,7 @@ fungi:
     - "Cryptococcus neoformans (pathogenic yeast)"
     - "Ustilago maydis (corn smut)"
 
-animals:
+- key: animals
   name: "Animals (Metazoa)"
   examples:
     - "Porifera: Spongia officinalis (sea sponge)"
@@ -83,7 +83,7 @@ animals:
     - "Arthropoda: Drosophila melanogaster (fruit fly)"
     - "Arthropoda: Carcinus maenas (green crab)"
 
-bilateria:
+- key: bilateria
   name: "Bilateria (bilateral animals)"
   examples:
     - "Acoelomorpha (simple bilaterians)"
@@ -94,7 +94,7 @@ bilateria:
     - "Echinodermata (echinoderms)"
     - "Chordata (chordates)"
 
-protostomes:
+- key: protostomes
   name: "Protostomes"
   examples:
     - "Platyhelminthes: Schmidtea mediterranea (planarian)"
@@ -107,11 +107,136 @@ protostomes:
     - "Arthropoda: Homarus americanus (American lobster)"
     - "Nematoda: Caenorhabditis elegans"
 
-deuterostomes:
+- key: deuterostomes
   name: "Deuterostomes"
   examples:
     - "Echinodermata: Strongylocentrotus purpuratus (sea urchin)"
     - "Echinodermata: Asterias rubens (common starfish)"
     - "Hemichordata: Saccoglossus kowalevskii (acorn worm)"
     - "Chordata: Branchiostoma lanceolatum (lancelet)"
-    - "Tunicates
+    - "Tunicates: Ciona intestinalis (sea squirt)"
+    - "Vertebrata: Petromyzon marinus (lamprey)"
+    - "Vertebrata: Latimeria chalumnae (coelacanth)"
+
+- key: chordates
+  name: "Chordates"
+  examples:
+    - "Branchiostoma lanceolatum (lancelet)"
+    - "Ciona intestinalis (tunicate)"
+    - "Petromyzon marinus (lamprey)"
+    - "Scyliorhinus canicula (catshark)"
+    - "Latimeria chalumnae (coelacanth)"
+    - "Lepisosteus oculatus (gar)"
+    - "Danio rerio (zebrafish)"
+    - "Oncorhynchus mykiss (rainbow trout)"
+
+- key: vertebrates
+  name: "Vertebrates"
+  examples:
+    - "Petromyzon marinus (lamprey)"
+    - "Scyliorhinus canicula (catshark)"
+    - "Sphyrna mokarran (great hammerhead)"
+    - "Latimeria chalumnae (coelacanth)"
+    - "Protopterus annectens (African lungfish)"
+    - "Polypterus senegalus (bichir)"
+    - "Danio rerio (zebrafish)"
+    - "Oncorhynchus mykiss (rainbow trout)"
+    - "Gadus morhua (Atlantic cod)"
+
+- key: tetrapods
+  name: "Tetrapods"
+  examples:
+    - "Ambystoma mexicanum (axolotl; amphibian)"
+    - "Rana temporaria (common frog)"
+    - "Chelonia mydas (green sea turtle)"
+    - "Alligator mississippiensis (American alligator)"
+    - "Varanus komodoensis (Komodo dragon)"
+    - "Gallus gallus (red junglefowl / chicken)"
+    - "Anas platyrhynchos (mallard duck)"
+    - "Homo sapiens (human)"
+    - "Canis lupus (gray wolf)"
+    - "Felis catus (domestic cat)"
+
+- key: amniotes
+  name: "Amniotes"
+  examples:
+    - "Synapsids: early therapsids (e.g., Dimetrodon as stem example)"
+    - "Sauropsids: early reptiles (e.g., Hylonomus)"
+    - "Testudines: Chelonia mydas (green turtle)"
+    - "Crocodylia: Crocodylus niloticus (Nile crocodile)"
+    - "Aves: Archaeopteryx (early bird; fossil genus)"
+    - "Mammalia: Morganucodon (early mammaliform)"
+    - "Squamata: Varanus spp. (monitor lizards)"
+    - "Lepidosauria: Sphenodon punctatus (tuatara)"
+
+- key: synapsids
+  name: "Synapsids (mammal lineage)"
+  examples:
+    - "Dimetrodon (sail-backed Permian synapsid)"
+    - "Therapsida: Thrinaxodon (early therapsid)"
+    - "Cynodontia: Cynognathus (advanced cynodont)"
+    - "Morganucodon (early mammaliaform)"
+    - "Monotremata: Ornithorhynchus anatinus (platypus)"
+    - "Marsupialia: Macropus rufus (red kangaroo)"
+    - "Placentalia: Loxodonta africana (African elephant)"
+    - "Placentalia: Canis lupus (gray wolf)"
+    - "Placentalia: Felis catus (domestic cat)"
+
+- key: mammals
+  name: "Mammals"
+  examples:
+    - "Ornithorhynchus anatinus (platypus; monotreme)"
+    - "Tachyglossus aculeatus (short-beaked echidna; monotreme)"
+    - "Macropus rufus (red kangaroo; marsupial)"
+    - "Phascolarctos cinereus (koala; marsupial)"
+    - "Loxodonta africana (African elephant; placental)"
+    - "Balaenoptera musculus (blue whale; placental)"
+    - "Canis lupus (gray wolf; placental)"
+    - "Felis catus (domestic cat; placental)"
+    - "Homo sapiens (human; placental)"
+    - "Mus musculus (house mouse; placental)"
+
+- key: placentals
+  name: "Placentals"
+  examples:
+    - "Primates: Homo sapiens"
+    - "Primates: Pan troglodytes (chimpanzee)"
+    - "Rodentia: Mus musculus (house mouse)"
+    - "Rodentia: Rattus norvegicus (brown rat)"
+    - "Carnivora: Canis lupus (gray wolf)"
+    - "Carnivora: Felis catus (domestic cat)"
+    - "Cetacea: Balaenoptera musculus (blue whale)"
+    - "Perissodactyla: Equus ferus caballus (horse)"
+    - "Artiodactyla: Bos taurus (cattle)"
+    - "Proboscidea: Loxodonta africana (African elephant)"
+
+- key: primates
+  name: "Primates"
+  examples:
+    - "Lemuriformes: Lemur catta (ring-tailed lemur)"
+    - "Tarsiiformes: Tarsius syrichta (Philippine tarsier)"
+    - "Platyrrhini: Cebus capucinus (white-faced capuchin)"
+    - "Cercopithecoidea: Macaca mulatta (rhesus macaque)"
+    - "Hylobatidae: Hylobates lar (white-handed gibbon)"
+    - "Ponginae: Pongo pygmaeus (Bornean orangutan)"
+    - "Gorillini: Gorilla gorilla (western gorilla)"
+    - "Hominini: Pan troglodytes (common chimpanzee)"
+    - "Homo: Homo sapiens"
+
+- key: hominins
+  name: "Hominins (human lineage)"
+  examples:
+    - "Sahelanthropus tchadensis (possible early hominin)"
+    - "Australopithecus afarensis (e.g., 'Lucy')"
+    - "Paranthropus boisei (robust australopith)"
+    - "Homo habilis"
+    - "Homo erectus"
+    - "Homo heidelbergensis"
+    - "Homo neanderthalensis (Neanderthal)"
+    - "Homo denisova (Denisovan; genomic evidence)"
+    - "Homo sapiens"
+
+- key: notes
+  note:
+    - "Species lists are representative, not exhaustive."
+    - "Common names and scientific names are mixed for readability; adjust to your taxonomy standards if needed."

@@ -5,6 +5,6 @@ title: Evolutionary Tree
 
 | Clade | Representative species |
 |-------|------------------------|
-{% for key in site.data.tree %}
-| **{{ site.data.tree[key].name }}** | {% if site.data.tree[key].examples %}{{ site.data.tree[key].examples | join: "; " }}{% else %}{{ site.data.tree[key].note | default: "—" }}{% endif %} |
+{% for item in site.data.tree %}
+| **{{ item.name }}** | {% if item.examples %}{{ item.examples | join: "; " }}{% else %}{{ item.note | default: "—" }}{% endif %} |
 {% endfor %}
