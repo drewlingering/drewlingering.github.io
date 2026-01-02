@@ -62,3 +62,58 @@ Make sure your Num Lock is enabled before trying these. Let me know if you need 
 |  28 |  0  |  New Moon begins again |
 
 Query sent to copilot (tm) 2 3 25
+
+
+
+# Phoenician Unicode cheat sheet
+
+The Phoenician script occupies the Unicode block `U+10900`–`U+1091F`. It represents Phoenician, Paleo‑Hebrew, Punic, and related early Northwest Semitic inscriptions. The table below gives each letter’s Unicode code point, character, name, phonetic value, original pictographic meaning, and main Greek/Latin descendants.
+
+> **Tip:** In most editors on modern systems, you can enter these with `109xx` followed by `Alt+X` (Windows) or by copy‑paste.
+
+---
+
+## Core consonant letters (abjad)
+
+| # | Phoenician | Unicode | Name        | Phonetic value | Pictographic origin (semantic idea) | Main descendants (Greek → Latin) |
+|---|------------|---------|-------------|----------------|--------------------------------------|----------------------------------|
+| 1 | 𐤀        | U+10900 | Aleph       | ʔ (glottal stop) / later a‑carrier | **Ox head** (strength, leader) | Α (Alpha) → A |
+| 2 | 𐤁        | U+10901 | Beth        | b              | **House** (dwelling)         | Β (Beta) → B |
+| 3 | 𐤂        | U+10902 | Gimel       | g              | **Throwing stick / camel** (throw, carry, camel) | Γ (Gamma) → C, G |
+| 4 | 𐤃        | U+10903 | Dalet       | d              | **Door** (entry, passage)    | Δ (Delta) → D |
+| 5 | 𐤄        | U+10904 | He          | h              | **Window / lattice / breath** (air, look) | Ε (Epsilon) → E |
+| 6 | 𐤅        | U+10905 | Waw         | w / u / o      | **Hook / peg / walking stick** (secure, connect) | Ϝ (digamma), Υ (Upsilon) → F, U, V, W, Y |
+| 7 | 𐤆        | U+10906 | Zayin       | z              | **Weapon (sword)** (cut, strike) | Ζ (Zeta) → Z |
+| 8 | 𐤇        | U+10907 | Het         | ħ / ḥ          | **Fence / courtyard** (enclosure) | Η (Eta) (revalued as vowel) |
+| 9 | 𐤈        | U+10908 | Tet         | ṭ              | **Wheel / serpent / good sign** (varies by tradition) | No direct distinct Greek letter; influences theta development |
+| 10| 𐤉        | U+10909 | Yod         | j / y / i      | **Hand / arm** (work, power) | Ι (Iota) → I, J |
+| 11| 𐤊        | U+1090A | Kaph        | k / kʰ         | **Palm of hand** (grasp)     | Κ (Kappa) → K, C (hard) |
+| 12| 𐤋        | U+1090B | Lamed       | l              | **Goad / staff** (prod, guide) | Λ (Lambda) → L |
+| 13| 𐤌        | U+1090C | Mem         | m              | **Water** (waves)           | Μ (Mu) → M |
+| 14| 𐤍        | U+1090D | Nun         | n              | **Fish** (life, activity)    | Ν (Nu) → N |
+| 15| 𐤎        | U+1090E | Samekh      | s              | **Support / fish spine / prop** (support, spine) | Possibly influences Ξ (Xi) / other sibilants |
+| 16| 𐤏        | U+1090F | Ayin        | ʕ              | **Eye** (see, know)          | Ο (Omicron) (revalued as vowel) → O |
+| 17| 𐤐        | U+10910 | Pe          | p / pʰ         | **Mouth** (speech, opening)  | Π (Pi) → P |
+| 18| 𐤑        | U+10911 | Sade        | ṣ              | **Plant / papyrus / fish‑hook** (hunt, trap) | Source for later emphatic / sibilant letters; indirect to Σ (Sigma) cluster |
+| 19| 𐤒        | U+10912 | Qoph       | q (uvular stop) | **Back of head / monkey / needle eye** (circle with line) | Ϙ (Qoppa) → Q, later Φ / others split |
+| 20| 𐤓        | U+10913 | Rosh        | r              | **Head** (top, chief)        | Ρ (Rho) → R |
+| 21| 𐤔        | U+10914 | Shin        | ʃ / s          | **Tooth** (bite, consume)    | Σ (Sigma) → S, also source of later shin/sin distinction in Hebrew |
+| 22| 𐤕        | U+10915 | Tau         | t              | **Mark / cross / sign** (marking) | Τ (Tau) → T |
+
+> Sources (mapping, meanings, descendants): comparative tables and notes in Phoenician alphabet overviews and general Unicode block descriptions.
+
+---
+
+## Additional Phoenician Unicode characters
+
+The block also reserves code points for punctuation, numbers, and layout marks in inscriptions:
+
+| Phoenician | Unicode | Description (Unicode)                |
+|------------|---------|--------------------------------------|
+| 𐤟        | U+1091F | Word separator / punctuation mark    |
+
+> Other code points in `U+10916`–`U+1091E` are assigned to additional separators and numeric indicators in the block; support may be patchy across fonts.
+
+---
+
+ 
