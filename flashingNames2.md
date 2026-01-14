@@ -1,5 +1,5 @@
 ---
 layout: flashingNames2
-title: Flashing Names 2
+title: FlashingNames2
 ---
 jekyll serve
