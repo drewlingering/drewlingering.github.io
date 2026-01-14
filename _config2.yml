@@ -1,0 +1,13 @@
+title: "Blog"
+author: "drewlingering"
+email: "your-email@example.com"
+description: "A blog about everything and anything."
+baseurl: "" # Leave empty for GitHub Pages
+url: "https://drewlingering.github.io"
+theme: minima
+plugins:
+  - jekyll-feed
+disqus:
+  shortname: drewlingering.disqus.com
+bundle exec jekyll serve
+jekyll new my-site
