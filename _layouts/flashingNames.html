@@ -30,13 +30,7 @@
 </head>
 <body>
     <script>
-        const names = ['{{ page.name1 }}', '{{ page.name2 }}']; 
-        names.forEach(name => { 
-            const nameElement = document.createElement('div'); 
-            nameElement.className = 'name'; 
-            nameElement.textContent = name; 
-            document.body.appendChild(nameElement); 
-        });
+        const name = 'Mila Lumley';
         const nameCount = 100;
         
         function getRandomColor() {
