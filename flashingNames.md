@@ -1,6 +1,9 @@
 ---
 layout: flashingNames
-title: FlashingNames
+name1: Craig
+name2: Sarah
+---
+
 ---
 jekyll serve
 
