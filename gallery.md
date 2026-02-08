@@ -23,8 +23,16 @@ title: "Image Gallery"
         <p>Image 4 mhd fuel cell hybrid vehicle idea sketch; i.e. wind propulsion</p>
     </div>
     <div class="gallery-item">
+        <img src="/assets/images/Gemini_Generated_Image_dzwjbxdzwjbxdzwj.png" alt="Image 6">
+        <p>Source: User Generated WITH ML </p>
+    </div>
+    <div class="gallery-item">
         <img src="/assets/images/Screenshot_30-6-2025_123340.jpeg" alt="Image 5">
         <p>Source: @domainofscience youtube.com</p>
+    </div>
+    <div class="gallery-item">
+        <img src="/assets/images/Gemini_Generated_Image_p43wjop43wjop43w.png" alt="Image 7">
+        <p>Source: User Generated WITH ML </p>
     </div>
     <!-- Add more images as needed -->
 </div>
