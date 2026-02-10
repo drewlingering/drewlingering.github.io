@@ -34,5 +34,13 @@ title: "Image Gallery"
         <img src="/assets/images/Gemini_Generated_Image_p43wjop43wjop43w.png" alt="Image 7">
         <p>Source: User Generated WITH ML </p>
     </div>
+     <div class="gallery-item">
+        <img src="/assets/images/Copilot_20260210_205557.png" alt="Image 8">
+        <p>Source: User Generated WITH ML </p>
+    </div>
+    <div class="gallery-item">
+        <img src="/assets/images/Copilot_20260210_210358.png" alt="Image 9">
+        <p>Source: User Generated WITH ML </p>
+    </div>
     <!-- Add more images as needed -->
 </div>
