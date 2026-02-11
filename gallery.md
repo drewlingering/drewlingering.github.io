@@ -35,11 +35,11 @@ title: "Image Gallery"
         <p>Source: User Generated WITH ML </p>
     </div>
      <div class="gallery-item">
-        <img src="/assets/images/Copilot_20260210_210358.png" alt="Image 8">
+        <img src="/assets/images/Copilot_20260210_235904.png" alt="Image 8">
         <p>Source: User Generated WITH ML </p>
     </div>
     <div class="gallery-item">
-        <img src="/assets/images/Copilot_20260210_205557.png" alt="Image 9">
+        <img src="/assets/images/Copilot_20260211_000220.png" alt="Image 9">
         <p>Source: User Generated WITH ML </p>
     </div>
     <!-- Add more images as needed -->
