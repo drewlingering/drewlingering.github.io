@@ -100,5 +100,13 @@ Mercuric oxide cycle
 Setting
 The entire scene is embedded in a typical urban environment — surrounded by housing and amenities — to emphasize real-world integration. All heavy vehicles operate using compact versions of the bio-refinery power plant and run on heavy oil.</p>
     </div>
+    <div class="gallery-item">
+        <img src="/assets/images/Copilot_20260214_003308.png" alt="Image 11">
+        <p>Source: User Generated WITH ML </p>
+    </div>
+    <div class="gallery-item">
+        <img src="/assets/images/Copilot_20260214_003301.png" alt="Image 12">
+        <p>Source: User Generated WITH ML </p>
+    </div>
     <!-- Add more images as needed -->
 </div>
