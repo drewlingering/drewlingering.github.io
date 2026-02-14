@@ -108,5 +108,23 @@ The entire scene is embedded in a typical urban environment — surrounded by ho
         <img src="/assets/images/Copilot_20260214_003301.png" alt="Image 12">
         <p>Source: User Generated WITH ML </p>
     </div>
+    <div class="gallery-item">
+        <img src="/assets/images/Copilot_20260214_143604.png" alt="Image 13">
+        <p>Source: User Generated WITH ML Footnote — System Synthesis Behind the Airport Cutaway Scene
+
+This illustration culminates a multi-stage conceptual integration developed collaboratively between Craig and Copilot. It visualizes a speculative aircraft powertrain built around a four-tier cascade:
+
+Ceria thermochemical topping cycle — high-temperature redox loop producing hydrogen and oxygen.
+
+Sodium-cooled MHD generator — converts thermal energy into electric power at ~55% efficiency.
+
+HgO thermochemical water-splitting cycle — bottoming stage harvesting mid-grade heat to generate additional hydrogen.
+
+Alkaline fuel cell stack — final electrochemical conversion of hydrogen to electricity with high efficiency.
+
+The aircraft shown is a blended-wing lifting-body design, embedded in a near-future airport ecosystem where ground vehicles, logistics systems, and infrastructure are powered by the same chemical-electric architecture. The visual style emulates the biorefinery image Craig referenced from the gallery, maintaining a clean, optimistic industrial aesthetic with simplified geometry and soft gradients.
+
+This synthesis reflects a vision of modular, multi-fuel, thermochemically integrated propulsion systems replacing conventional gas turbines in aviation, with cascading energy recovery and hydrogen-centric electrification across all transport modes.</p>
+    </div>
     <!-- Add more images as needed -->
 </div>
