@@ -130,5 +130,9 @@ This synthesis reflects a vision of modular, multi-fuel, thermochemically integr
         <img src="/assets/images/Copilot_20260214_171627.png" alt="Image 14">
         <p>Source: User Generated WITH ML a dedicated steam-generation reactor (not a power plant), with no cooling tower, visible containment shell, and a layout optimized for horizontal integration across a shale oil deposit like the Piceance Basin.</p>
     </div>
+    <div class="gallery-item">
+        <img src="/assets/images/Copilot_20260218_003545.png" alt="Image 14">
+        <p>Source: User Generated WITH ML </p>
+    </div>
     <!-- Add more images as needed -->
 </div>
