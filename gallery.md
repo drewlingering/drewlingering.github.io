@@ -114,9 +114,7 @@ The entire scene is embedded in a typical urban environment — surrounded by ho
 
 This illustration culminates a multi-stage conceptual integration developed collaboratively  Copilot. It visualizes a speculative aircraft powertrain built around a four-tier cascade:
 
-⭐ Fe–Al spinels (hercynite family) thermochemical topping cycle — high-temperature redox loop producing hydrogen and oxygen.
-
-Sodium-cooled MHD generator — converts thermal energy into electric power at ~55% efficiency.
+⭐ Sodium-cooled MHD generator — converts thermal energy into electric power at ~55% efficiency. Westinghouse thermochemical bottom cycle — high-temperature hybrid redox loop producing hydrogen and oxygen.
 
 HgO thermochemical water-splitting cycle — bottoming stage harvesting mid-grade heat to generate additional hydrogen.
 
