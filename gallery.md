@@ -133,7 +133,7 @@ This synthesis reflects a vision of modular, multi-fuel, thermochemically integr
         <p>Source: User Generated WITH ML </p>
     </div>
     <div class="gallery-item">
-        <img src="/assets/images/Assembly 1.png" alt="Image 16">
+        <img src="/assets/images/Copilot_20260307_001421.png" alt="Image 16">
         <p>Source: User Generated WITH ML </p>
     </div>
     <!-- Add more images as needed -->
