@@ -152,5 +152,13 @@ This synthesis reflects a vision of modular, multi-fuel, thermochemically integr
         <img src="/assets/images/Copilot_20260328_201204.png" alt="Image 20">
         <p>Source: User Generated WITH ML beam power propulsion automotive application capsule pipeline atom powered drone </p>
     </div>
+    <div class="gallery-item">
+        <img src="/assets/images/Copilot_20260403_202222.png" alt="Image 21">
+        <p>Source: User Generated WITH ML beam power propulsion automotive application capsule pipeline atom powered drone </p>
+    </div>
+    <div class="gallery-item">
+        <img src="/assets/images/Copilot_20260403_202034.png" alt="Image 22">
+        <p>Source: User Generated WITH ML beam power propulsion automotive application capsule pipeline atom powered drone </p>
+    </div>
     <!-- Add more images as needed -->
 </div>
