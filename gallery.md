@@ -160,5 +160,9 @@ This synthesis reflects a vision of modular, multi-fuel, thermochemically integr
         <img src="/assets/images/Copilot_20260403_202034.png" alt="Image 22">
         <p>Source: User Generated WITH ML beam power propulsion automotive application capsule pipeline atom powered drone </p>
     </div>
+    <div class="gallery-item">
+        <img src="/assets/images/Copilot_20260405_222428.png" alt="Image 23">
+        <p>Source: User Generated WITH ML fuel cell hybrid super capacitor conformal geometry Lhydrogen fuel concept </p>
+    </div>
     <!-- Add more images as needed -->
 </div>
