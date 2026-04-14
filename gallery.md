@@ -164,5 +164,9 @@ This synthesis reflects a vision of modular, multi-fuel, thermochemically integr
         <img src="/assets/images/Copilot_20260405_222428.png" alt="Image 23">
         <p>Source: User Generated WITH ML fuel cell hybrid super capacitor conformal geometry Lhydrogen fuel concept </p>
     </div>
+    <div class="gallery-item">
+        <img src="/assets/images/Copilot_20260413_153856.png" alt="Image 24">
+        <p>Source: User Generated WITH ML</p>
+    </div>
     <!-- Add more images as needed -->
 </div>
