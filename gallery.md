@@ -189,5 +189,9 @@ This synthesis reflects a vision of modular, multi-fuel, thermochemically integr
 " alt="Image 29">
         <p>Source: User Generated WITH ML</p>
     </div>
+    <div class="gallery-item">
+        <img src="/assets/images/Copilot_20260505_134551.png" alt="Image 30">
+        <p>Source: User Generated WITH ML Here’s your refined hydrogen rock‑hopper concept render</p>
+    </div>
     <!-- Add more images as needed -->
 </div>
