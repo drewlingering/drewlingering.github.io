@@ -166,11 +166,11 @@ This synthesis reflects a vision of modular, multi-fuel, thermochemically integr
     </div>
     <div class="gallery-item">
         <img src="/assets/images/Copilot_20260413_153856.png" alt="Image 24">
-        <p>Source: User Generated WITH ML</p>
+        <p>Source: User Generated WITH ML or sometimes with Onshape</p>
     </div>
     <div class="gallery-item">
         <img src="/assets/images/image.jpg" alt="Image 25">
-        <p>Source: User Generated WITH ML</p>
+        <p>Source: User Generated WITH ML or sometimes with Onshape</p>
     </div>
     <div class="gallery-item">
         <img src="/assets/images/Copilot_20260423_132037.png" alt="Image 26">
@@ -195,7 +195,11 @@ This synthesis reflects a vision of modular, multi-fuel, thermochemically integr
     </div>
      <div class="gallery-item">
         <img src="/assets/images/Copilot_20260509_100015.png" alt="Image 31">
-        <p>Source: User Generated WITH ML Here’s your refined hydrogen rock‑hopper concept render</p>
+        <p>Source: User Generated WITH ML </p>
+    </div>
+    <div class="gallery-item">
+        <img src="/assets/images/Copilot_20260610_181134.png" alt="Image 32">
+        <p>Source: User Generated WITH ML </p>
     </div>
     <!-- Add more images as needed -->
 </div>
