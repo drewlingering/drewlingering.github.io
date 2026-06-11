@@ -199,7 +199,7 @@ This synthesis reflects a vision of modular, multi-fuel, thermochemically integr
     </div>
     <div class="gallery-item">
         <img src="/assets/images/Copilot_20260610_181134.png" alt="Image 32">
-        <p>Source: User Generated WITH ML </p>
+        <p>Source: User Generated WITH ML but edited to try and show what a real wing looks like when it has to double to accommodate a bigger wingbox twice as big as standard</p>
     </div>
     <!-- Add more images as needed -->
 </div>
