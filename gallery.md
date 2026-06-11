@@ -138,11 +138,11 @@ This synthesis reflects a vision of modular, multi-fuel, thermochemically integr
     </div>
     <div class="gallery-item">
         <img src="/assets/images/Assembly 1 (1).png" alt="Image 17">
-        <p>Source: User Generated WITH ML </p>
+        <p>Source: User Generated WITH ML  or sometimes with Onshape</p>
     </div>
      <div class="gallery-item">
         <img src="/assets/images/Copilot_20260317_163900.png" alt="Image 18">
-        <p>Source: User Generated WITH ML </p>
+        <p>Source: User Generated WITH ML  or sometimes with Onshape</p>
     </div>
      <div class="gallery-item">
         <img src="/assets/images/Copilot_20260317_163715.png" alt="Image 19">
@@ -166,11 +166,11 @@ This synthesis reflects a vision of modular, multi-fuel, thermochemically integr
     </div>
     <div class="gallery-item">
         <img src="/assets/images/Copilot_20260413_153856.png" alt="Image 24">
-        <p>Source: User Generated WITH ML or sometimes with Onshape</p>
+        <p>Source: User Generated WITH ML</p>
     </div>
     <div class="gallery-item">
         <img src="/assets/images/image.jpg" alt="Image 25">
-        <p>Source: User Generated WITH ML or sometimes with Onshape</p>
+        <p>Source: User Generated WITH ML</p>
     </div>
     <div class="gallery-item">
         <img src="/assets/images/Copilot_20260423_132037.png" alt="Image 26">
