@@ -203,7 +203,7 @@ This synthesis reflects a vision of modular, multi-fuel, thermochemically integr
     </div>
     <div class="gallery-item">
         <img src="/assets/images/bafkreiefxsuz57pv2vl7g5jj3yvj3d5n4erawbo63csmwwqjmk7z3obdli.webp" alt="Image 33">
-        <p>Source: User Generated WITH ML but edited to try and show what a real wing looks like when it has to double to accommodate a bigger wingbox twice as big as standard</p>
+        <p>Source: User Generated WITH ML </p>
     </div>
     <!-- Add more images as needed -->
 </div>
