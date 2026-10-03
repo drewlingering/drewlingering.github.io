@@ -14,7 +14,9 @@ Hello! Here's Drewlingering, a site by a multifaceted professional with a passio
 - **Open Source** 🖥️: Contributing to the open-source community and promoting collaborative software development.
 - **Abatement** 🏭: Working towards reducing environmental impact and promoting sustainable practices.
 
-**#mhddynamo** **#twsc4h2** **#alkalinefuelcell** **#combinedcycles** **#cascade** 
+**#mhddynamo** **#twsc4h2** **#alkalinefuelcell** **#combinedcycles** **#cascade**
+**#directcarbonfuelcell** **#naturalgasplasmalysis** **#methaneplasmaelectrolysis** **#biocoal**
+**#liquidhydrogenfuelcellaviation** **#htpemfuelcell**
 
 Join on a journey as are shared insights, stories, and experiences from these diverse fields. Thank you for visiting the blog!
 
