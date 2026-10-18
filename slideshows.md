@@ -1,11 +1,11 @@
 ---
 layout: default
-title: "Image Gallery"
+title: "Slideshow"
 ---
 
 # Image Gallery
 
-<div class="gallery-item">
+<div class="slideshow">
     <img src="/assets/images/Designer (1).png"
          alt="Gallery Cover"
          onclick="openSlideshow(0)">
