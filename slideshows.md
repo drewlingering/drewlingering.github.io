@@ -1,3 +1,10 @@
+---
+layout: default
+title: "Image Gallery"
+---
+
+# Image Gallery
+
 <div class="gallery-item">
     <img src="/assets/images/Designer (1).png"
          alt="Gallery Cover"
